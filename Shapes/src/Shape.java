@@ -7,7 +7,7 @@ public class Shape
  public Shape()
  {
    area=perimeter=0;
- }
+ } 
   public String toString()
   	 { 
 

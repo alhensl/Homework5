@@ -7,7 +7,7 @@ public class Square extends Shape
          super();
          length=l;
  
-       }
+       } 
 
 	public void calcArea(){
 		area =length * length;
